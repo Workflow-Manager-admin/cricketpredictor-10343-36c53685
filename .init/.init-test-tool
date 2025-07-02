@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/cricketpredictor-10343-36c53685/popup_questions_frontend"
+}
